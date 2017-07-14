@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using EngineConfiguration;
 using Microsoft.Practices.ServiceLocation;
 using SolrConsole.Interface;
 using SolrConsole.Models;
