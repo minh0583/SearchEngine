@@ -27,7 +27,7 @@ namespace SolrConsole
             }
             else
             {
-                Console.WriteLine("Need to enable search engine.");
+                Console.WriteLine("Need to enable search engine. changed from minhnguyen branches.");
                 Console.ReadLine();
             }
         }

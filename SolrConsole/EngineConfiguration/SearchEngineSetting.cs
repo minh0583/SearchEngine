@@ -8,7 +8,7 @@ namespace EngineConfiguration
 
         public static SearchEngineSetting Settings => settings;
 
-        [ConfigurationProperty("isEnabled", DefaultValue = false, IsRequired = true)]
+        [ConfigurationProperty("isEnabled", DefaultValue = false, IsRequired = true)] 
         public bool IsEnabled
         {
             get { return (bool)this["isEnabled"]; }
