@@ -30,6 +30,8 @@ namespace SolrConsole
                 Console.WriteLine("Need to enable search engine. changed from minhnguyen branches.");
                 Console.ReadLine();
             }
+
+            Console.WriteLine("branch testing");
         }
 
         private static void SearchElasticPerson()
